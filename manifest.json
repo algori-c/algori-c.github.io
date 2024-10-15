@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "알고리C의 동적파도타기법",
+  "short_name": "동파법",
   "icons": [
     {
       "src": "favicon.ico",
